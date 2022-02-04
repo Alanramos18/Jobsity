@@ -1,0 +1,54 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "JobsityChat.Web", "JobsityChat.Web\JobsityChat.Web.csproj", "{B2AFF0B7-7440-4AC5-8654-2C486C6071CB}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "JobsityChat.Data", "JobsityChat.Data\JobsityChat.Data.csproj", "{6D4A9C95-2B9C-48B5-94C7-1B95F6E7B7FE}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Files", "Solution Files", "{B46D0B3B-F326-47D6-95DD-DB1C8AF9E08A}"
+	ProjectSection(SolutionItems) = preProject
+		Directory.Build.props = Directory.Build.props
+		Directory.Build.targets = Directory.Build.targets
+	EndProjectSection
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "JobsityChat.Business", "JobsityChat.Business\JobsityChat.Business.csproj", "{E68D9D03-53CC-4936-A699-1DCB0EC96DF8}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1. Web", "1. Web", "{50FB1E1F-60CA-44B4-918B-20D7313C4B8A}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2. Business", "2. Business", "{C862B27F-E969-4CC7-A82A-3B1ABA1D84F5}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "3. Persistance", "3. Persistance", "{F8DA5B7F-509D-4C1B-A955-F8520A824586}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B2AFF0B7-7440-4AC5-8654-2C486C6071CB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B2AFF0B7-7440-4AC5-8654-2C486C6071CB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B2AFF0B7-7440-4AC5-8654-2C486C6071CB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B2AFF0B7-7440-4AC5-8654-2C486C6071CB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6D4A9C95-2B9C-48B5-94C7-1B95F6E7B7FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6D4A9C95-2B9C-48B5-94C7-1B95F6E7B7FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6D4A9C95-2B9C-48B5-94C7-1B95F6E7B7FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6D4A9C95-2B9C-48B5-94C7-1B95F6E7B7FE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E68D9D03-53CC-4936-A699-1DCB0EC96DF8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E68D9D03-53CC-4936-A699-1DCB0EC96DF8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E68D9D03-53CC-4936-A699-1DCB0EC96DF8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E68D9D03-53CC-4936-A699-1DCB0EC96DF8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{B2AFF0B7-7440-4AC5-8654-2C486C6071CB} = {50FB1E1F-60CA-44B4-918B-20D7313C4B8A}
+		{6D4A9C95-2B9C-48B5-94C7-1B95F6E7B7FE} = {F8DA5B7F-509D-4C1B-A955-F8520A824586}
+		{E68D9D03-53CC-4936-A699-1DCB0EC96DF8} = {C862B27F-E969-4CC7-A82A-3B1ABA1D84F5}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {59AD6DE5-3E2E-4397-A203-06A20396594C}
+	EndGlobalSection
+EndGlobal

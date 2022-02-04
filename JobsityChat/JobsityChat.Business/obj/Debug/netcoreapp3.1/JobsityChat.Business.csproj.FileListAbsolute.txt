@@ -1,0 +1,12 @@
+H:\Jobsity\JobsityChat\JobsityChat.Business\bin\Debug\netcoreapp3.1\JobsityChat.Business.deps.json
+H:\Jobsity\JobsityChat\JobsityChat.Business\bin\Debug\netcoreapp3.1\JobsityChat.Business.dll
+H:\Jobsity\JobsityChat\JobsityChat.Business\bin\Debug\netcoreapp3.1\JobsityChat.Business.pdb
+H:\Jobsity\JobsityChat\JobsityChat.Business\bin\Debug\netcoreapp3.1\JobsityChat.Data.dll
+H:\Jobsity\JobsityChat\JobsityChat.Business\bin\Debug\netcoreapp3.1\JobsityChat.Data.pdb
+H:\Jobsity\JobsityChat\JobsityChat.Business\obj\Debug\netcoreapp3.1\JobsityChat.Business.csprojAssemblyReference.cache
+H:\Jobsity\JobsityChat\JobsityChat.Business\obj\Debug\netcoreapp3.1\JobsityChat.Business.AssemblyInfoInputs.cache
+H:\Jobsity\JobsityChat\JobsityChat.Business\obj\Debug\netcoreapp3.1\JobsityChat.Business.AssemblyInfo.cs
+H:\Jobsity\JobsityChat\JobsityChat.Business\obj\Debug\netcoreapp3.1\JobsityChat.Business.csproj.CoreCompileInputs.cache
+H:\Jobsity\JobsityChat\JobsityChat.Business\obj\Debug\netcoreapp3.1\JobsityChat.Business.csproj.CopyComplete
+H:\Jobsity\JobsityChat\JobsityChat.Business\obj\Debug\netcoreapp3.1\JobsityChat.Business.dll
+H:\Jobsity\JobsityChat\JobsityChat.Business\obj\Debug\netcoreapp3.1\JobsityChat.Business.pdb

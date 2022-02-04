@@ -1,0 +1,12 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <ItemGroup>
+    <PackageReference Include="Scrutor" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="5.0.13" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\JobsityChat.Business\JobsityChat.Business.csproj" />
+    <ProjectReference Include="..\JobsityChat.Data\JobsityChat.Data.csproj" />
+  </ItemGroup>
+</Project>
